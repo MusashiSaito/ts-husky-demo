@@ -1,4 +1,4 @@
-# ESLint Prettier husky Commit Auto Fix
+# ESLint Prettier Husky Commit Auto Fix
 
 ## First install
 
